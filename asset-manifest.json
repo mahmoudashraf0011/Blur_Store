@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.61a9c3c7.css",
-    "main.js": "/static/js/main.203b6622.js",
-    "static/js/453.eda10f6f.chunk.js": "/static/js/453.eda10f6f.chunk.js",
-    "static/media/jew.jpeg": "/static/media/jew.59598806759b1345741e.jpeg",
-    "static/media/elec2.jpg": "/static/media/elec2.3adb76f6ba66adc0b63a.jpg",
-    "static/media/jew2.webp": "/static/media/jew2.0784395561195a3384ca.webp",
-    "static/media/testcard.jpg": "/static/media/testcard.474294d3c9f202fd43b9.jpg",
-    "static/media/bg2.jpg": "/static/media/bg2.50233295cf10e4d9d673.jpg",
-    "static/media/woman2.webp": "/static/media/woman2.380c575da430dd48059a.webp",
-    "static/media/elec.jpg": "/static/media/elec.08701c36599953d2fa42.jpg",
-    "static/media/women.jpg": "/static/media/women.d57e433f15fea00d9856.jpg",
-    "static/media/man.jpg": "/static/media/man.d0b586f3d3ee997756ae.jpg",
-    "static/media/man2.jpeg": "/static/media/man2.7f538247ed6fff1113c0.jpeg",
-    "static/media/f2.webp": "/static/media/f2.bf91bf83fd6b85bece7e.webp",
-    "static/media/f3.webp": "/static/media/f3.ca9b27ae759279f27060.webp",
-    "static/media/f1.webp": "/static/media/f1.05cac82981d650bd6626.webp",
-    "index.html": "/index.html",
-    "main.61a9c3c7.css.map": "/static/css/main.61a9c3c7.css.map",
-    "main.203b6622.js.map": "/static/js/main.203b6622.js.map",
-    "453.eda10f6f.chunk.js.map": "/static/js/453.eda10f6f.chunk.js.map"
+    "main.css": "/Blur_Store/static/css/main.20870456.css",
+    "main.js": "/Blur_Store/static/js/main.2d00e85f.js",
+    "static/js/453.eda10f6f.chunk.js": "/Blur_Store/static/js/453.eda10f6f.chunk.js",
+    "static/media/jew.jpeg": "/Blur_Store/static/media/jew.59598806759b1345741e.jpeg",
+    "static/media/elec2.jpg": "/Blur_Store/static/media/elec2.3adb76f6ba66adc0b63a.jpg",
+    "static/media/jew2.webp": "/Blur_Store/static/media/jew2.0784395561195a3384ca.webp",
+    "static/media/testcard.jpg": "/Blur_Store/static/media/testcard.474294d3c9f202fd43b9.jpg",
+    "static/media/bg2.jpg": "/Blur_Store/static/media/bg2.50233295cf10e4d9d673.jpg",
+    "static/media/woman2.webp": "/Blur_Store/static/media/woman2.380c575da430dd48059a.webp",
+    "static/media/elec.jpg": "/Blur_Store/static/media/elec.08701c36599953d2fa42.jpg",
+    "static/media/women.jpg": "/Blur_Store/static/media/women.d57e433f15fea00d9856.jpg",
+    "static/media/man.jpg": "/Blur_Store/static/media/man.d0b586f3d3ee997756ae.jpg",
+    "static/media/man2.jpeg": "/Blur_Store/static/media/man2.7f538247ed6fff1113c0.jpeg",
+    "static/media/f2.webp": "/Blur_Store/static/media/f2.bf91bf83fd6b85bece7e.webp",
+    "static/media/f3.webp": "/Blur_Store/static/media/f3.ca9b27ae759279f27060.webp",
+    "static/media/f1.webp": "/Blur_Store/static/media/f1.05cac82981d650bd6626.webp",
+    "index.html": "/Blur_Store/index.html",
+    "main.20870456.css.map": "/Blur_Store/static/css/main.20870456.css.map",
+    "main.2d00e85f.js.map": "/Blur_Store/static/js/main.2d00e85f.js.map",
+    "453.eda10f6f.chunk.js.map": "/Blur_Store/static/js/453.eda10f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61a9c3c7.css",
-    "static/js/main.203b6622.js"
+    "static/css/main.20870456.css",
+    "static/js/main.2d00e85f.js"
   ]
 }
