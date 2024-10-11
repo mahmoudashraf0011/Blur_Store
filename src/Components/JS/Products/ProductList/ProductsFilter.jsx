@@ -7,6 +7,10 @@ export default function ProductsFilter() {
   const [categories]=AllCategoriesHook();
   const [filterOption,onHandleFilter]=FilterProductsHook();
   const {name}=useParams();
+  let cate="";
+  if(localStorage.getItem("filter")){
+    cate=localStorage.getItem("filter")
+  }
   return (
     <div className='productsFilter'>
         <div className='filterByCate'>
@@ -16,7 +20,7 @@ export default function ProductsFilter() {
                   categories?categories.map((item)=>{
                     return (
                       <>
-                        <input type="radio" id={item} name="category" value={item} onChange={onHandleFilter} defaultChecked={item==name?name:""}/>
+                        <input type="radio" id={item} name="category" value={item} onChange={onHandleFilter} defaultChecked={cate?cate:""}/>
                         <label for={item}>{item}</label><br/>
                       </>
 
