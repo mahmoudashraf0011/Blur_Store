@@ -1,0 +1,230 @@
+/* BG Products List*/
+.bgProductList{
+ 
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 46vh;
+}
+.BGProductListContent{
+    margin-top: 60px;
+    margin-left: 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
+.BGProductListContent > span{
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+    margin-bottom: 130px;
+}
+.BGProductListContent  > h2{
+    font-size: 30px;
+    letter-spacing: 10px;
+    font-weight: normal;
+    width: 20%;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.BGProductListContent > p{
+    font-size: 48px;
+    letter-spacing: 3px;
+    margin-bottom: 25px;
+}
+
+/* productListContainer */
+.productListContainer{
+    display: flex;
+    background-color:#eeeeee;
+    margin: 50px 0;
+    padding: 20px 50px;
+    gap: 0 130px;
+}
+.productsFilter{
+    padding-top: 10px;
+    width: 21%;
+}
+.filterByCate > h4 , .Sort > h4 {
+text-transform: capitalize;
+font-weight: normal;
+margin-bottom: 12px;
+font-weight: bold;
+}
+.filterByCate >{
+    border-bottom: 1px solid #fff;
+    display: flex;
+}
+form > input{
+    margin-bottom: 15px;
+    margin-right: 5px;
+}
+form > label{
+    text-transform: capitalize;
+
+}
+.Sort {
+    margin-top: 20px;
+}
+
+/* productListCardContainer*/
+.cardItemsHeader{
+    text-transform: capitalize;
+    font-weight: normal;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+
+}
+.cardItems{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:30px;
+}
+
+
+.cardItemImg{
+    width: 100%;
+    height: 280px;
+}
+.cardItemImg > a{
+    text-align: center;
+}
+.cardItemImg > a> img{
+    width: 100%;
+    height: 100%;
+}
+.cardItemTitle{
+    margin-top: 13px;
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 5px;
+    height: 50px;
+
+}
+.cardItemPrice{
+    display: block;
+    color: var(--hoverColor);
+    margin-bottom: 10px;
+}
+.cardItemAdd,.cardItemDelete{
+    all: unset;
+    display: block;
+    background-color: var(--hoverColor);
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: opacity 0.5s;
+    -webkit-transition: opacity 0.5s;
+    -moz-transition: opacity 0.5s;
+    -ms-transition: opacity 0.5s;
+    -o-transition: opacity 0.5s;
+}
+.cardItemDelete{
+    display: none;
+}
+.cardItemAdd:hover{
+    opacity: 0.5;
+}
+
+/* productDetails */
+.ProductDetailsBGHeader{
+    margin-left:100px ;
+    text-transform: capitalize;
+    font-weight: normal;
+    margin-bottom: 20px;
+    font-size: 19px;
+}
+.productDetailsContainerItems{
+    display: flex;
+    margin-left: 100px;
+    gap: 30px;
+
+}
+.ProductDetailsBG{
+    flex: 2.5;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+}
+.ProductDetailsBGImg{
+    width: 50%;
+    height: 400px;
+    margin-left: 25%;
+    
+}
+.ProductDetailsBGImg > img{
+    width: 100%;
+    height: 100%;
+
+}
+.productDetails{
+    flex: 1;
+    margin-top: 20px;
+}
+.ProductDetailsTitle{
+    width: 85%;
+    font-size: 19px;
+    letter-spacing: 1px
+
+}
+.ProductDetailsPrice{
+    color: var(--hoverColor);
+    font-size: 19px;
+}
+.productDetailsAddCart{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 35px;
+}
+.productDetailsAddCartQty{
+    list-style: none;
+    border: 1px solid #ddd;
+    background-color: #ddd;
+    padding: 10px 20px;
+}
+
+.productDetailsAddCartButton{
+    width: 250px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: var(--hoverColor);
+    color: #fff;
+    border: none;
+letter-spacing: 1px;
+}
+.productDetailsInfo > li{
+    list-style: none;
+    margin-bottom: 18px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 18px;
+    width: 85%;
+    font-size: 15px;
+
+}
+.productDetailsInfo > li > i{
+    margin-right: 15px;
+}
+.productDetailsInfo > li  > a{
+    text-decoration: underline !important;
+    color: red;
+    cursor: pointer;
+}
+.productDetailsInfo > li  > a:hover{
+    text-decoration: none !important;
+}
+
+/*  productDetailsDescription */
+.productDetailsDescription{
+    width: 87%;
+    margin: auto;
+    margin-top: 20px;
+}

@@ -1,0 +1,50 @@
+.Contact{
+    margin-top: 90px;
+    background-color: #514f4d;
+    padding: 50px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.formFilds{
+    margin-bottom: 15px;
+}
+.formFilds > input{
+    width: 250px;
+    padding: 15px 20px;
+    margin-right: 15px;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.formFilds > input:focus{
+    outline: none;
+    border: none;
+}
+.formSubscribe{
+    width: 520px;
+    padding: 10px 0;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.contactDesc{
+    width: 520px;
+    margin-top: 20px;
+    color: var(--secondColor);
+}
+.contactDesc > a{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ContactRight > li {
+     text-decoration: none;
+     display: inline-block;
+     margin-left: 20px;
+}
+.ContactRight > li > i{
+    font-size: 25px;
+    color: var(--secondColor);
+    cursor: pointer;
+}

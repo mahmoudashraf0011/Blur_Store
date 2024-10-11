@@ -1,0 +1,26 @@
+.features{
+    margin-top: 70px;
+    background-color: var(--secondColor);
+    padding: 50px 70px;
+}
+.features > h2{
+    text-align: center;
+    font-size: 35px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+.featuresItems{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.featuresItem{
+    display: flex;
+}
+.featuresItemImg{
+    margin-right: 30px;
+}
+.featuresItemContentDesc{
+    width: 75%;
+}

@@ -1,0 +1,20 @@
+# Blur Website
+- http://mahmoudashraf0011.github.io/Blur/
+
+# Used Languages
+- HTML , CSS , Bootstrap ,JavaScript , React , React Hooks and Redux
+# Folders
+- images 
+    - This folder contains all images of the project
+- API
+    - This folder contains Base URL of API (axios)
+- Components
+    - This folder contains all Components of Project
+- Pages
+    - This folder contains all Pages of Project
+- LogicHooks
+    - This folder contains all the code files that are applied to the pages and components of the project
+- hooks
+    - This folder contains Custom hooks of Project for handle Data (get,post,delete,put)
+- redux
+    - This folder contains everything related to Redux (store,actions,reducers)
