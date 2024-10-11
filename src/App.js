@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
 
-      <BrowserRouter>
+      <HashRouter>
         <Header />
         <Routes>
           <Route path="/" element={<HomePage />}/>
@@ -21,7 +21,7 @@ function App() {
         </Routes>
         <Contact/>
         <Footer />
-      </BrowserRouter>
+      </HashRouter>
       
     </div>
   );
