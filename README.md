@@ -18,3 +18,8 @@
     - This folder contains Custom hooks of Project for handle Data (get,post,delete,put)
 - redux
     - This folder contains everything related to Redux (store,actions,reducers)
+
+# Instruction for run app Locally
+- Run (npm i .)
+- change "homePage='/'" in package.json file
+- Run (npm start)
