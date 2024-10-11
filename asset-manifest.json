@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Blur_Store/static/css/main.20870456.css",
-    "main.js": "/Blur_Store/static/js/main.15516830.js",
+    "main.js": "/Blur_Store/static/js/main.0185021f.js",
     "static/js/453.eda10f6f.chunk.js": "/Blur_Store/static/js/453.eda10f6f.chunk.js",
     "static/media/jew.jpeg": "/Blur_Store/static/media/jew.59598806759b1345741e.jpeg",
     "static/media/elec2.jpg": "/Blur_Store/static/media/elec2.3adb76f6ba66adc0b63a.jpg",
@@ -18,11 +18,11 @@
     "static/media/f1.webp": "/Blur_Store/static/media/f1.05cac82981d650bd6626.webp",
     "index.html": "/Blur_Store/index.html",
     "main.20870456.css.map": "/Blur_Store/static/css/main.20870456.css.map",
-    "main.15516830.js.map": "/Blur_Store/static/js/main.15516830.js.map",
+    "main.0185021f.js.map": "/Blur_Store/static/js/main.0185021f.js.map",
     "453.eda10f6f.chunk.js.map": "/Blur_Store/static/js/453.eda10f6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20870456.css",
-    "static/js/main.15516830.js"
+    "static/js/main.0185021f.js"
   ]
 }
